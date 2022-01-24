@@ -5,7 +5,7 @@ import userEvent from '@testing-library/user-event';
 
 import Show from './../Show';
 
-const testShow = {
+export const testShow = {
   image: 'https://www.coverwhiz.com/uploads/tv/the-inbetweeners-series-1_v2.jpg',
   name: 'The Inbetweeners',
   seasons: [
